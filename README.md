@@ -35,7 +35,7 @@ This project is a **real-time cryptocurrency dashboard** built with [Streamlit](
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/crypto-dashboard.git
+   git clone https://github.com/AquaKnauf/Dashboard_demonstration.git
    cd crypto-dashboard
    ```
 
